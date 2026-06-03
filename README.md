@@ -84,3 +84,6 @@ A stronger and more defensible positioning is:
 
 > Grouped Batch Sync reduces orphan records and incomplete states caused by synchronizing composite business operations as isolated records.
 
+## Article
+
+- [Grouped Batch Sync: Reducing Orphan Records in Offline-First Applications](https://dev.to/emersonbarcellos0/grouped-batch-sync-reducing-orphan-records-in-offline-first-applications-59ei)
