@@ -71,7 +71,7 @@ Grouped Batch Sync does not remove the need for:
 
 ## Files
 
-- [Technical document in Portuguese](docs/grouped-batch-offline-first-sync.md)
+- [Technical document in Portuguese](docs/grouped-batch-offline-first-sync.pt.md)
 - [Technical document in English](docs/grouped-batch-offline-first-sync.en.md)
 - [Publication-ready article](articles/grouped-batch-sync-reducing-orphan-records.md)
 - [Minimal Dart example](examples/grouped_batch_sync_example.dart)
